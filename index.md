@@ -26,7 +26,7 @@
 ### Project 
 
 [Expedia Hotel Recommendation](/pdf/Expedia Hotel Recommendation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Expedia_EDA.png?raw=true"/>
 
 ---
 [AirBnb EDA](/pdf/sample_presentation.pdf)
