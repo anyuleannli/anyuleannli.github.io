@@ -25,12 +25,12 @@
 
 ### Project 
 
-[Expedia Hotel Recommendation](/pdf/Expedia Hotel Recommendation.pdf)
-<img src="images/Expedia_EDA.png?raw=true"/>
+[AirBnb EDA](https://github.com/anyuleannli/Exploratory-Analysis-on-AirBnB-Data/)
+<img src="images/AirBnB_EDA.png?raw=true"/>
 
 ---
-[AirBnb EDA](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Expedia Hotel Recommendation](/pdf/Expedia Hotel Recommendation.pdf)
+<img src="images/Expedia_EDA.png?raw=true"/>
 
 ---
 [Yelp Review Sentimental Analysis](http://example.com/)
