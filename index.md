@@ -16,7 +16,7 @@
   <br>
   Other Technical Skills: Adobe Analytics, AWS-EC2/S3, A/B Testing, Airflow, Excel, Google Analytics, LaTex, PySpark
   <br>
-  Softskills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement 
+  Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement 
 <br><br>
 
 ## Portfolio
@@ -33,18 +33,18 @@
 <img src="images/Expedia_EDA.png?raw=true"/>
 
 ---
-[Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis)
+[Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis/)
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
-[Shift Assignment Optimization](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shift Assignment Optimization](https://github.com/anyuleannli/Shift-Assignment-Optimization/)
+<img src="images/optimization.png?raw=true"/>
 
 ---
 ### Presentation
 
 - [Yelp Review Sentimental Analysis](/pdf/Yelp Review Sentimental Analysis.pdf)
-- [Project 2 Title](http://example.com/)
+- [Identification Fraud Analytics](/pdf/Presentation.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
