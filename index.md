@@ -33,8 +33,8 @@
 <img src="images/Expedia_EDA.png?raw=true"/>
 
 ---
-[Yelp Review Sentimental Analysis](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis)
+<img src="images/wordcloud.png?raw=true"/>
 
 ---
 [Shift Assignment Optimization](http://example.com/)
