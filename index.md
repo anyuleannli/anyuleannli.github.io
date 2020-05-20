@@ -45,9 +45,8 @@
 
 - [Yelp Review Sentimental Analysis](/pdf/Yelp Review Sentimental Analysis.pdf)
 - [Identification Fraud Analytics](/pdf/Presentation.pdf)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Marketing Analytics for a Physical Group](/pdf/Physical Group Marketing Anaytics Presentation.pdf)
+- [Capsim Business Strategy - Top Performing Group](/pdf/Team 5 - Erie - Final Presentation online  -  Read-Only.pdf)
 
 ---
 
