@@ -1,5 +1,5 @@
 ## About
-description: > # your text below (remove <br> elements if you don't need line breaks)
+
   I graduated from Master of Science in Business Analytics program at the University
   of Southern California (USC) Marshall School of Business. I am specializing in 
   solving data science and anlytics issues with technical skilss including Python, 
@@ -24,21 +24,24 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 ---
 
-### Category Name 1 
+### Project 
 
-[Project 1 Title](/sample_page)
+[Expedua Hotel Recommendation]((/pdf/Expedia Hotel Recommendation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[AirBnb EDA](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Yelp Review Sentimental Analysis](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Shit Assignment Optimization](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
