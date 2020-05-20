@@ -37,11 +37,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Shit Assignment Optimization](http://example.com/)
+[Shift Assignment Optimization](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### Category Name 2
+### Presentation
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
