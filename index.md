@@ -1,5 +1,5 @@
 ## About
-
+description: > # your text below (remove <br> elements if you don't need line breaks)
   I graduated from Master of Science in Business Analytics program at the University
   of Southern California (USC) Marshall School of Business. I am specializing in 
   solving data science and anlytics issues with technical skilss including Python, 
@@ -19,6 +19,7 @@
                           LaTex, PySpark 
   Softskills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement 
 <br><br>
+
 ## Portfolio
 
 ---
