@@ -43,7 +43,7 @@
 ---
 ### Presentation
 
-- [Project 1 Title](http://example.com/)
+- [Yelp Review Sentimental Analysis](/pdf/Yelp Review Sentimental Analysis.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
