@@ -1,3 +1,24 @@
+## About
+
+  I graduated from Master of Science in Business Analytics program at the University
+  of Southern California (USC) Marshall School of Business. I am specializing in 
+  solving data science and anlytics issues with technical skilss including Python, 
+  R, Tableau and SQL. I also had experience in applying machine learning algorithms 
+  as well as conducting statistical analysis through hands-on big data projects and
+  delivering presentations to data scientists, non-technical people, and C-level executives.
+  <br><br>
+  Skills:
+  <br><br>
+  Programming Language: Python, R, SQL, NoSQL, Stata
+  Algorithm: Linear/Logistic regression, Decision Tree, Random Forest, Boosted Tree, 
+             Lasso/Ridge Regression, Neural Network, K-means Clustering, Support Vector Machine, 
+             Natural Language Processing (NLP), PCA 
+  Visualization: R (ggplot2, ggmap, Shiny), Python (matplotlib, plotly, seaborn, wordcloud), Tableau
+  Data Cleaning: R (tidyverse, lubridate, data.table), Python (numpy, pandas, nltk, regex, SciPy, genism, scikit-learn)
+  Other Technical Skills: Adobe Analytics, AWS-EC2/S3, A/B Testing, Airflow, Excel, Google Analytics, 
+                          LaTex, PySpark 
+  Softskills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement 
+<br><br>
 ## Portfolio
 
 ---
