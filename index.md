@@ -29,11 +29,11 @@
 <img src="images/AirBnB_EDA.png?raw=true"/>
 
 ---
-[Expedia Hotel Recommendation](/pdf/Expedia Hotel Recommendation.pdf)
-<img src="images/Expedia_EDA.png?raw=true"/>
+[Game Analytics and Recomendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Game Analytics Presentation.pdf)
+<img src="images/Game_1.gif?raw=true"/>
 
 ---
-[Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis/)
+[Yelp Review Sentimental Analysis - Team Project with Yishi Lu, Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu](https://github.com/anyuleannli/Review-Analysis/)
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
