@@ -41,7 +41,7 @@
 
 ---
 #### Natural Language Processing
-[Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis/)- Team Project with [Yishi Lu](https://github.com/yishilu), Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu
+[Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis/) - Team Project with [Yishi Lu](https://github.com/yishilu), Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
