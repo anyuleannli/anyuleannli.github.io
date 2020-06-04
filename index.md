@@ -27,7 +27,7 @@
 ##### Click on the project titles below to view more details.
 
 #### EDA
-[AirBnB EDA](https://github.com/anyuleannli/Exploratory-Analysis-on-AirBnB-Data/)
+[AirBnB EDA - Python](https://github.com/anyuleannli/Exploratory-Analysis-on-AirBnB-Data/)
 <img src="images/AirBnB_EDA.png?raw=true"/>
 
 ---
