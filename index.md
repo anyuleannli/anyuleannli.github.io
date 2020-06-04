@@ -6,7 +6,7 @@
   <br><br>
   Programming: Python, R, Stata
   <br>
-  Databse: SQL, NoSQL
+  Database: SQL, NoSQL
   <br>
   Algorithm: Linear/Logistic regression, Decision Tree, Random Forest, Boosted Tree, Lasso/Ridge Regression, Neural Network, K-means Clustering, Support Vector Machine, Natural Language Processing (NLP), PCA 
   <br>
