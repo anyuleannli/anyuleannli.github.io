@@ -52,7 +52,7 @@
 ---
 ### Presentation
 
-#### The projects below covered sentimental analysis, fraud analytics, marketing analytics and businesss strategy with presentation on problem solving process, business insights from data, data processing and machine learning model building.
+#### The projects below covered sentimental analysis, fraud analytics, marketing analytics and business strategy with presentation on problem solving process, business insights from data, data processing and machine learning model building.
 
 - [Yelp Review Sentimental Analysis](/pdf/Yelp Review Sentimental Analysis.pdf)
 - [Identification Fraud Analytics](/pdf/Presentation.pdf)
