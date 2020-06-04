@@ -32,11 +32,11 @@
 
 ---
 #### Product Analytics
-[Game Analytics and Recomendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Game Analytics Presentation.pdf)
+[Game Analytics and Recommendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Game Analytics Presentation.pdf)
 <img src="images/Game_1.gif?raw=true"/>
 
 ---
-[Product Analytics and Recomendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Product Analytics Project.pdf)
+[Product Analytics and Recommendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Product Analytics Project.pdf)
 <img src="images/Game_2.gif?raw=true"/>
 
 ---
