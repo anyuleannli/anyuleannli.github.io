@@ -14,7 +14,7 @@
   <br>
   Data Cleaning: R (tidyverse, lubridate, data.table), Python (numpy, pandas, nltk, regex, SciPy, genism, scikit-learn)
   <br>
-  Other Technical Skills: Adobe Analytics, AWS-EC2/S3, A/B Testing, Airflow, Excel, Google Analytics, LaTex, PySpark
+  Other Technical Skills: Adobe Analytics, AWS, A/B Testing, Airflow, Excel, Google Analytics, LaTex, PySpark
   <br>
   Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement 
 <br><br>
