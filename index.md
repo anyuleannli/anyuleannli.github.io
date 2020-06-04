@@ -32,16 +32,16 @@
 
 ---
 #### Product Analytics
-[Game Analytics and Recommendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Game Analytics Presentation.pdf)
+[Game Analytics and Recommendation - Team Project with Yishi(https://github.com/yishilu) Lu(https://github.com/yishilu) and Peishuo Yu](/pdf/Game Analytics Presentation.pdf)
 <img src="images/Game_1.gif?raw=true"/>
 
 ---
-[Product Analytics and Recommendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Product Analytics Project.pdf)
+[Product Analytics and Recommendation - Team Project with Yishi(https://github.com/yishilu) Lu(https://github.com/yishilu) and Peishuo Yu](/pdf/Product Analytics Project.pdf)
 <img src="images/Game_2.gif?raw=true"/>
 
 ---
 #### Natural Language Processing
-[Yelp Review Sentimental Analysis - Team Project with Yishi Lu, Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu](https://github.com/anyuleannli/Review-Analysis/)
+[Yelp Review Sentimental Analysis - Team Project with Yishi(https://github.com/yishilu) Lu(https://github.com/yishilu), Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu](https://github.com/anyuleannli/Review-Analysis/)
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
