@@ -24,24 +24,35 @@
 ---
 
 ### Project 
+##### Click on the project titles below to view more details.
 
+#### EDA
 [AirBnB EDA](https://github.com/anyuleannli/Exploratory-Analysis-on-AirBnB-Data/)
 <img src="images/AirBnB_EDA.png?raw=true"/>
 
 ---
+#### Product Analytics
 [Game Analytics and Recomendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Game Analytics Presentation.pdf)
 <img src="images/Game_1.gif?raw=true"/>
 
 ---
+[Product Analytics and Recomendation - Team Project with Yishi Lu and Peishuo Yu](/pdf/Product Analytics Project.pdf)
+<img src="images/Game_2.gif?raw=true"/>
+
+---
+#### Natural Language Processing
 [Yelp Review Sentimental Analysis - Team Project with Yishi Lu, Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu](https://github.com/anyuleannli/Review-Analysis/)
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
-[Shift Assignment Optimization](https://github.com/anyuleannli/Shift-Assignment-Optimization/)
+#### Optimization
+[Shift Assignment Optimization with Python Gurobi](https://github.com/anyuleannli/Shift-Assignment-Optimization/)
 <img src="images/optimization.png?raw=true"/>
 
 ---
 ### Presentation
+
+#### The projects below covered sentimental analysis, fraud analytics, marketing analytics and businesss strategy with presentation on problem solving process, business insights from data, and machine learning building.
 
 - [Yelp Review Sentimental Analysis](/pdf/Yelp Review Sentimental Analysis.pdf)
 - [Identification Fraud Analytics](/pdf/Presentation.pdf)
