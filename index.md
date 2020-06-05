@@ -6,16 +6,22 @@
   <br><br>
   Programming: Python, R, Stata
   <br>
+  
   Database: SQL, NoSQL
   <br>
-  Algorithm: Linear/Logistic regression, Decision Tree, Random Forest, Boosted Tree, Lasso/Ridge Regression, Neural Network, K-means Clustering, Support Vector Machine, Natural Language Processing (NLP), PCA 
+  
+  Algorithm: Linear/Logistic Regression, Decision Tree, Random Forest, Boosted Tree, Lasso/Ridge Regression, Neural Network, K-means Clustering, Support Vector Machine, Natural Language Processing (NLP), PCA 
   <br>
+  
   Visualization: R (ggplot2, ggmap, Shiny), Python (matplotlib, plotly, seaborn, wordcloud), Tableau
   <br>
+  
   Data Cleaning: R (tidyverse, lubridate, data.table), Python (numpy, pandas, nltk, regex, SciPy, genism, scikit-learn)
   <br>
+  
   Other Technical Skills: Adobe Analytics, AWS, A/B Testing, Airflow, Excel, Google Analytics, LaTex, PySpark
   <br>
+  
   Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement  
 <br><br>
 
