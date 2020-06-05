@@ -3,7 +3,7 @@ logo: "/images/profile2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>About</b>
   <br>
-  I graduated from University of Southern California (USC), Marshall School of Business with a MS degree in Business Analytics. I'm specializing in solving data science and anlytics issues with technical skills including Python, R, Tableau and SQL. I also had experience in applying machine learning algorithms as well as conducting statistical analysis through hands-on big data projects and delivering presentations to data scientists, non-technical people, and C-level executives.
+  I graduated from USC, Marshall School of Business with a MS degree in Business Analytics. I'm specializing in solving data science and anlytics issues with technical skills including Python, R, Tableau and SQL. I also had experience in applying machine learning algorithms as well as conducting statistical analysis through hands-on big data projects and delivering presentations to data scientists, non-technical people, and C-level executives.
   <br>
   <a href="https://www.linkedin.com/in/anyuleannli/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
