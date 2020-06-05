@@ -20,6 +20,7 @@
   
   Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement  
 <br><br>
+[SQL Exercise on Leetcode Database Problems](https://github.com/anyuleannli/SQL)
 
 ## Portfolio
 
