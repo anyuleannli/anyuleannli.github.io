@@ -1,4 +1,4 @@
-## Skills
+## Skill
 
   Programming: Python, R, Stata
   <br>
@@ -19,7 +19,7 @@
   <br>
   
   Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement  
-<br><br>
+<br>
 [SQL Exercise on Leetcode Database Problems](https://github.com/anyuleannli/SQL)
 
 ## Portfolio
