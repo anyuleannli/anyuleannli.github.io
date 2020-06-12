@@ -38,24 +38,24 @@ Key Tech: Python
 #### Product Analytics
 [Game Analytics and Recommendation](/pdf/Game Analytics Presentation.pdf) - Team Project with [Yishi Lu](https://github.com/yishilu) and Peishuo Yu
 <img src="images/Game_1.gif?raw=true"/>
-Key Tech: Python, Tableau
+Tech: Python, Tableau
 
 ---
 [Product Analytics and Recommendation](/pdf/Product Analytics Project.pdf) - Team Project with [Yishi Lu](https://github.com/yishilu) and Peishuo Yu
 <img src="images/Game_2.gif?raw=true"/>
-Key Tech: Python, Tableau
+Tech: Python, Tableau
 
 ---
 #### Natural Language Processing
 [Yelp Review Sentimental Analysis](https://github.com/anyuleannli/Review-Analysis/) - Team Project with [Yishi Lu](https://github.com/yishilu), Yucen Zhao, Dongyue Wang, Jiaying Li, and Mengtian Hu
 <img src="images/wordcloud.png?raw=true"/>
-Key Tech: Python, PostgreSQL Database
+Tech: Python, PostgreSQL Database
 
 ---
 #### Optimization
 [Shift Assignment Optimization with Python Gurobi](https://github.com/anyuleannli/Shift-Assignment-Optimization/)
 <img src="images/optimization.png?raw=true"/>
-Key Tech: Python, Linear Optimization
+Tech: Python, Linear Optimization
 
 ---
 ### Presentation
