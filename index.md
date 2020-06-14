@@ -32,7 +32,7 @@
 #### EDA
 [AirBnB EDA - Python](https://github.com/anyuleannli/Exploratory-Analysis-on-AirBnB-Data/)
 <img src="images/AirBnB_EDA.png?raw=true"/>
-Key Tech: Python
+Tech: Python
 
 ---
 #### Product Analytics
