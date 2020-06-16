@@ -18,7 +18,7 @@
   Other Technical Skills: Adobe Analytics, AWS, A/B Testing, Airflow, Excel, Google Analytics, LaTex, PySpark
   <br>
   
-  Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Mangement  
+  Soft Skills: Consulting, Dashboarding, Negotiation, Presentation, Time Management  
 <br>
 [SQL Exercise on Leetcode Database Problems](https://github.com/anyuleannli/SQL)
 
